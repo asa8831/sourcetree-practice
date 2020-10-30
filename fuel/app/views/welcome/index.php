@@ -1,9 +1,9 @@
 
 <html>
     <head>
-        <title><?php echo $title; ?></title>
+        <title>welcomeのページ</title>
     </head>
     <body>
-        Welcome, <?php echo $username; ?>.
+        Welcome！！.
     </body>
 </html>
